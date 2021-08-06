@@ -12,6 +12,10 @@ Many applications of calculus involve definite integrals.In most of the cases an
   Simpson's Rule is based on the fact that given any three points,we can find the equation of a quadratic through those points. We are doing a comparative study of simpson vs trapizoidal rule.
    </p>
    
+   <figure>
+	<img src='trap vs simpson.png'>
+	<figcaption>trapizoidal vs simpson's rule</figcaption>
+</figure>
   <p align="justify">
   Gauss quadratures are numerical integration methods that employ Legendre points. Gauss quadrature cannot integrate a function given in a tabular form with equispaced intervals. 
 </p>
